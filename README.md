@@ -42,7 +42,7 @@
 
 
 ###
-<h2 align="left"> Languages I am currently learning:</h2>
+<h3 align="left"> Languages I am currently learning:</h3>
 <div align="left">
 <img src="https://static.wikia.nocookie.net/duolingo/images/f/f9/Spanish_flag.png/revision/latest?cb=20230812204030" alt="Flag of Spain" height="70" width="70">
 <img src="https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321" alt="Flag of Japan"  height="70" width="70">
