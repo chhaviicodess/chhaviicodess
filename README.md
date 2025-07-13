@@ -53,9 +53,9 @@
 
 <h2 align="left">🤝 Let's Connect:</h2>
 <div align="left">
-  <a href="https://twitter.com/chhavii_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavii_s" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/chhavi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi singh" height="40" width="50" /></a>
-<a href="https://instagram.com/chhavi_iii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhavi_iii" height="40" width="50" /></a>
+  <a href="https://x.com/chhavii_s?t=hnFUz5e77TeU3JB9gnka3g&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavii_s" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/chhavi-singh-883158312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi singh" height="40" width="50" /></a>
+<a href="https://www.instagram.com/chhavi_iii?igsh=MXZwMHJhamFtdjA2eQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhavi_iii" height="40" width="50" /></a>
 </div>
 
 ###
