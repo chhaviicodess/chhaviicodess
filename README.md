@@ -27,7 +27,7 @@
 </div>
 
 ###
-<h3 align="left"> 🔥 My Stats :</h3>
+<h2 align="left"> 🔥 My Stats :</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 
 ###
-<h3 align="left"> Languages I am currently learning:</h3>
+<h2 align="left"> Languages I am currently learning:</h2>
 <div align="left">
 <img src="https://static.wikia.nocookie.net/duolingo/images/f/f9/Spanish_flag.png/revision/latest?cb=20230812204030" alt="Flag of Spain" height="70" width="70">
 <img src="https://static.wikia.nocookie.net/duolingo/images/4/45/Japanese_flag.png/revision/latest/scale-to-width-down/250?cb=20240930044321" alt="Flag of Japan"  height="70" width="70">
@@ -51,7 +51,7 @@
 ###
 
 
-<h3 align="left">🤝 Let's Connect:</h3>
+<h2 align="left">🤝 Let's Connect:</h2>
 <div align="left">
   <a href="https://twitter.com/chhavii_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chhavii_s" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/chhavi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi singh" height="40" width="50" /></a>
